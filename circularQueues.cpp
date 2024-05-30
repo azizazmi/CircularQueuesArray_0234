@@ -14,6 +14,6 @@ public:
     }
 
     void insert() {
-        
+        int num;
     }
 };
